@@ -1,3 +1,6 @@
+## 0.3.19+10
+
+* add the ability to zoom to android devices.
 ## 0.3.19+9
 
 * Remove example app's iOS workspace settings.
